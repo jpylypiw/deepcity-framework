@@ -1,0 +1,32 @@
+{
+  "name": "deepcity-framework",
+  "version": "0.0.1",
+  "description": "An advanced discord bot framework with rich functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eukalyptus-Dreizack/deepcity-framework.git"
+  },
+  "keywords": [
+    "discord",
+    "framework",
+    "discord-bot"
+  ],
+  "engines": {
+    "node": ">=10",
+    "pnpm": ">=3"
+  },
+  "author": "Eukalyptus Dreizack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eukalyptus-Dreizack/deepcity-framework/issues"
+  },
+  "homepage": "https://github.com/Eukalyptus-Dreizack/deepcity-framework#readme",
+  "devDependencies": {
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.4"
+  }
+}
