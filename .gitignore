@@ -1,0 +1,8 @@
+# JetBrains
+.idea
+
+# VS Code
+.vscode/
+
+# Dependency directories
+node_modules/
