@@ -16,8 +16,8 @@
     "discord-bot"
   ],
   "engines": {
-    "node": ">=10",
-    "pnpm": ">=3"
+    "node": ">=10.16.3",
+    "pnpm": ">=4.0.2"
   },
   "author": "Eukalyptus Dreizack",
   "license": "MIT",
