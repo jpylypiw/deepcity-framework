@@ -73,7 +73,7 @@ If you want to take part in contribution, like fixing issues and contributing di
 
 ###### Copyright (c) Eukalyptus-Dreizack. All rights reserved | Licensed under the MIT license. | 2019 - today
 
-[travis]: https://travis-ci.org/Eukalyptus-Dreizack/deepcity-framework.svg?branch=develop
+[travis]: https://img.shields.io/travis/com/Eukalyptus-Dreizack/deepcity-framework/develop?style=flat-square
 [travis-url]: https://travis-ci.org/Eukalyptus-Dreizack/deepcity-framework
 
 
@@ -90,7 +90,7 @@ If you want to take part in contribution, like fixing issues and contributing di
 
 
 [commit-info]: https://img.shields.io/github/last-commit/Eukalyptus-Dreizack/deepcity-framework?style=flat-square
-[commit-url]: https://github.com/nekozbyte/DraconisBot/commits
+[commit-url]: https://github.com/Eukalyptus-Dreizack/deepcity-framework/commits
 
 [contributors-info]: https://img.shields.io/github/contributors/Eukalyptus-Dreizack/deepcity-framework?style=flat-square
 [contributors-url]: https://github.com/Eukalyptus-Dreizack/deepcity-framework/contributors?style=flat-square
