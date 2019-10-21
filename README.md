@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Eukalyptus-Dreizack/deepcity-framework">
+  <a href="#">
     <!--<img width="249" height="175" src=".github/MEDIA/logo.png">-->
     <img width="200" height="200" src=".github/MEDIA/logo.png">
   </a>
@@ -14,7 +14,7 @@
 
   [![commit-info][commit-info]][commit-url]
   [![contributors-info][contributors-info]][contributors-url]
-  ![repo-size-info][repo-size-info]
+  [![repo-size-info][repo-size-info]][repo-size-url]
 
   <br><hr><br>
 
@@ -57,7 +57,7 @@ pnpm i
 
 If you want to take part in contribution, like fixing issues and contributing directly to the code base, plase visit the [How to Contribute](/CONTRIBUTING.md "Learn how to Contribute") document, which covers such things as:  
 
-- [Contributing your first time :D](/CONTRIBUTING.md#first-time-contributors)
+- [Contributing your first time](/CONTRIBUTING.md#first-time-contributors)
 - [Questions, bugs and feature requests](/CONTRIBUTING.md#dealing-with-questions-bugs-and-feature-requests)
 - [Contributing Code](/CONTRIBUTING.md#contributing-code)
 - [Pull requests, branching and commits](/CONTRIBUTING.md#pull-requests-branching-and-commits)
@@ -72,6 +72,8 @@ If you want to take part in contribution, like fixing issues and contributing di
 <hr>  
 
 ###### Copyright (c) Eukalyptus-Dreizack. All rights reserved | Licensed under the MIT license. | 2019 - today
+
+<!-- The following links are for the GitHub repository badges: -->
 
 [travis]: https://img.shields.io/travis/com/Eukalyptus-Dreizack/deepcity-framework/develop?style=flat-square
 [travis-url]: https://travis-ci.org/Eukalyptus-Dreizack/deepcity-framework
@@ -96,3 +98,4 @@ If you want to take part in contribution, like fixing issues and contributing di
 [contributors-url]: https://github.com/Eukalyptus-Dreizack/deepcity-framework/contributors?style=flat-square
 
 [repo-size-info]: https://img.shields.io/github/repo-size/Eukalyptus-Dreizack/deepcity-framework?style=flat-square
+[repo-size-url]: #
