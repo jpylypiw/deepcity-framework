@@ -2,9 +2,10 @@
   "name": "deepcity-framework",
   "version": "0.0.1",
   "description": "An advanced discord bot framework with rich functionality",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Test\""
+    "test": "echo \"Test\"",
+    "clean": "gulp clean"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   },
   "homepage": "https://github.com/Eukalyptus-Dreizack/deepcity-framework#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
     "tslint": "^5.20.0",
     "typescript": "^3.6.4"
   }
