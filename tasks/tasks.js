@@ -3,6 +3,7 @@ const gulp = require('gulp');
 // Import all our tasks
 require('./gulp-tasks/misc/task-clean');
 require('./gulp-tasks/compile/transpile-ts');
+require('./gulp-tasks/qa/lint-ts');
 
 /*
   If we need multiple steps to accomplish a single task,

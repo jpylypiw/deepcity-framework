@@ -7,7 +7,8 @@
     "build": "gulp build",
     "test": "echo \"No tests present\" && exit 1",
     "clean": "gulp clean",
-    "compile-ts": "gulp compile-ts"
+    "compile-ts": "gulp compile-ts",
+    "lint": "gulp lint"
   },
   "repository": {
     "type": "git",
@@ -30,8 +31,16 @@
   "homepage": "https://github.com/Eukalyptus-Dreizack/deepcity-framework#readme",
   "devDependencies": {
     "@types/node": "^12.11.2",
+    "@typescript-eslint/eslint-plugin": "^2.5.0",
+    "@typescript-eslint/eslint-plugin-tslint": "^2.5.0",
+    "@typescript-eslint/parser": "^2.5.0",
+    "@typescript-eslint/typescript-estree": "^2.5.0",
+    "eslint": "^6.5.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prefer-arrow": "^1.1.6",
     "gulp": "^4.0.2",
     "gulp-clean": "^0.4.0",
+    "gulp-eslint": "^6.0.0",
     "gulp-typescript": "^5.0.1",
     "tslint": "^5.20.0",
     "typescript": "^3.6.4"
