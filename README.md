@@ -28,30 +28,11 @@ Easy to **use**, to **expand** and it's blazingly **fast**
 
 ## DeepCity: 
 
-Please be patient, the project will start soon and a more detailed readme will follow.
+You can find more information about the project in our **[Wiki](https://github.com/Eukalyptus-Dreizack/deepcity-framework/wiki)**
 
 ## Getting Started:  
 
-### Prerequisites:
-
-- Download **Node.js** with **npm** 
-
-### Clone GitHub Repository:
-
-```bash
-git clone https://github.com/Eukalyptus-Dreizack/deepcity-framework.git
-```  
-
-### Dependencies:
-
-1. Install **pnpm**
-```bash
-npm i -g pnpm 
-```
-2. Install **all dependencies** with **pnpm**
-```bash
-pnpm i
-```
+You can find more infos about the installation and usage of the project in our **[Wiki](https://github.com/Eukalyptus-Dreizack/deepcity-framework/wiki)**
 
 ## Contributing
 
@@ -67,7 +48,8 @@ If you want to take part in contribution, like fixing issues and contributing di
 [Contributing](/CONTRIBUTING.md "Contributing") - 
 [Code of conduct](/CODE_OF_CONDUCT.md "Code of conduct") - 
 [Issues](https://github.com/Eukalyptus-Dreizack/deepcity-framework/issues "Issues") - 
-[Pull requests](https://github.com/Eukalyptus-Dreizack/deepcity-framework/pulls "Pull Requests")
+[Pull requests](https://github.com/Eukalyptus-Dreizack/deepcity-framework/pulls "Pull Requests") - 
+[Wiki](https://github.com/Eukalyptus-Dreizack/deepcity-framework/wiki)
 
 <hr>  
 
