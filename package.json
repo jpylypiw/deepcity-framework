@@ -21,8 +21,8 @@
     "discord-bot"
   ],
   "engines": {
-    "node": ">=10.16.3",
-    "pnpm": ">=4.0.2"
+    "node": ">=12.13.0",
+    "pnpm": ">=4.1.6"
   },
   "author": "Eukalyptus Dreizack",
   "license": "MIT",

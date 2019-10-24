@@ -1,8 +1,7 @@
 language: node_js
 node_js:
-  - 10
-  - 10.16.3
   - 12
+  - 12.13.0
   - 13
 cache:
   npm: false
