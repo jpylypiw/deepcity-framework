@@ -12,3 +12,9 @@ dist/
 
 # Log files
 *.log
+
+# Yarn
+yarn.lock
+
+# npm
+package-lock.json
