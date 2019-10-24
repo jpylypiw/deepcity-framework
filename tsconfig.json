@@ -17,7 +17,7 @@
     "skipLibCheck": false,
     "allowJs": true,
     "jsx": "preserve",
-    "outDir": "./build"
+    "outDir": "./dist"
   },
   "include": [
     "./src/*",

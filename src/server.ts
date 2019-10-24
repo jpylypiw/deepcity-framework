@@ -3,11 +3,6 @@
  * Once Node has been started, the static main method will be called and initialized the server.
  */
 export default class Server {
-
-  private constructor() {
-    console.log("Test");
-  }
-
   /**
    * The main method, that is the entry point of the server.
    * Should only called once during applications lifetime!
