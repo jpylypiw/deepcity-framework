@@ -57,7 +57,7 @@ If you want to take part in contribution, like fixing issues and contributing di
 
 <!-- The following links are for the GitHub repository badges: -->
 
-[travis]: https://img.shields.io/travis/com/Eukalyptus-Dreizack/deepcity-framework/develop?style=flat-square
+[travis]: https://img.shields.io/travis/Eukalyptus-Dreizack/deepcity-framework/develop?style=flat-square
 [travis-url]: https://travis-ci.org/Eukalyptus-Dreizack/deepcity-framework
 
 
