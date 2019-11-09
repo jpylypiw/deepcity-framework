@@ -1,0 +1,25 @@
+# Issues
+issues:
+  opened:
+    add:
+      - #
+    remove:
+      - #
+  closed:
+    add:
+      - #
+    remove:
+      - S6 - in progress
+
+# Pull Requests
+pulls:
+  opened:
+    add:
+      - #
+    remove:
+      - #
+  closed:
+    add:
+      - #
+    remove:
+      - #
