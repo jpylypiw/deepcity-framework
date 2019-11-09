@@ -1,7 +1,7 @@
 ---
 name: A request for a new feature
 about: Suggest an idea for this project
-title: "[C2] - TITLEHERE"
+title: "TITLEHERE"
 labels: C2 - feature
 assignees: ''
 

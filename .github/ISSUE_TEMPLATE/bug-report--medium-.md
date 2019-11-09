@@ -1,7 +1,7 @@
 --- 
 name: Bug report [Medium]
 about: Report a bug to help us improve
-title: "[C1] - TITLEHERE"
+title: "TITLEHERE"
 labels: C1 - bug, T2 - hard
 assignees: ''
 

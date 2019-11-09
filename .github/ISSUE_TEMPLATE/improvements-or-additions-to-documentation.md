@@ -1,7 +1,7 @@
 ---
 name: Improvements or additions to documentation
 about: Improvements or additions to documentation
-title: "[C4] - TITLEHERE"
+title: "TITLEHERE"
 labels: C4 - documentation
 assignees: ''
 

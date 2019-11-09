@@ -1,7 +1,7 @@
 ---
 name: A question
 about: Ask a question
-title: "[C5] - TITLEHERE"
+title: "TITLEHERE"
 labels: C5 - question
 assignees: ''
 
