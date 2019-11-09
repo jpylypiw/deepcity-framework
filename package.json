@@ -51,5 +51,15 @@
     "ts-jest": "^24.1.0",
     "tslint": "^5.20.0",
     "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "discord.js": "^11.5.1",
+    "libsodium-wrappers": "^0.7.6",
+    "pg": "^7.12.1",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.3",
+    "typeorm": "^0.2.20",
+    "winston": "^3.2.1"
   }
 }
